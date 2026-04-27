@@ -14,4 +14,5 @@ Enter a username like alex
 Open the same URL in another tab/browser
 Login with another username like maya
 Start chatting
-
+![alt text](image.png)
+![alt text](image-1.png)
